@@ -1,2 +1,1 @@
-# latinotrivia
-A website with trivia in Spanish
+Un directorio con videos de acertijos, adivinanzas, y trivia en español.

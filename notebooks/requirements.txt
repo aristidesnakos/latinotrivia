@@ -1,0 +1,10 @@
+flask
+google
+httpx
+langchain
+openai
+Pillow
+pydantic
+pydantic-settings
+python-dotenv
+stripe

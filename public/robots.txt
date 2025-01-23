@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api/*
+Disallow: /admin/*
+
+# Host
+Host: https://www.createquiz.video
+
+# Sitemaps
+Sitemap: https://www.createquiz.video/sitemap.xml
